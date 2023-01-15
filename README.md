@@ -21,7 +21,7 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 <!-- OVERVIEW -->
 
@@ -37,5 +37,5 @@
 
 ## Contact
 
-- GitHub [@krishna kumar](https://{github.com/krish144})
+- GitHub [@krishna kumar](https://github.com/krish144)
 
